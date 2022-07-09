@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
      <React.StrictMode>
           <AuthProvider>
-               <Router>
+               <Router basename="/lappa-fixed">
                     <App />
                </Router>
           </AuthProvider>

@@ -3,7 +3,7 @@ import { checkToken, getToken } from "../helper";
 import { AuthContext } from "./AuthContext";
 
 export const AuthProvider = ({ children }) => {
-     const [isOpen, setIsOpen] = useState("show-nav");
+     const [isOpen, setIsOpen] = useState("");
      const [isLogged, setIsLogged] = useState(false);
      const [error, setError] = useState(false)
      const handleClick = () => {

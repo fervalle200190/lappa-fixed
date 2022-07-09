@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lappa-fixed/static/css/main.d5c55a46.css",
+    "main.js": "/lappa-fixed/static/js/main.67253f10.js",
+    "static/js/787.5ee6e53e.chunk.js": "/lappa-fixed/static/js/787.5ee6e53e.chunk.js",
+    "static/media/logo.svg": "/lappa-fixed/static/media/logo.7e9c3d1d40f83e17246b467f38506986.svg",
+    "static/media/2.svg": "/lappa-fixed/static/media/2.0646d849fe44ee8ab5e530b10b885820.svg",
+    "static/media/nav-op.svg": "/lappa-fixed/static/media/nav-op.25cf77c39ac1d16099dc8612e4521309.svg",
+    "static/media/nav.svg": "/lappa-fixed/static/media/nav.25cf77c39ac1d16099dc8612e4521309.svg",
+    "static/media/4.svg": "/lappa-fixed/static/media/4.ca06cf3dcda9a7b95f29c792d54006b7.svg",
+    "static/media/3.svg": "/lappa-fixed/static/media/3.aae3cd84c728eb879de5d67b2e895d4f.svg",
+    "static/media/1.svg": "/lappa-fixed/static/media/1.f978338ae20c06a6a8bff2d31b23a516.svg",
+    "index.html": "/lappa-fixed/index.html",
+    "static/media/flecha.svg": "/lappa-fixed/static/media/flecha.d96ee7ece12068622795252f804578d6.svg",
+    "static/media/arrow-down-outline.svg": "/lappa-fixed/static/media/arrow-down-outline.134ac26ce6a52bf2f9cb556df3bf5499.svg",
+    "main.d5c55a46.css.map": "/lappa-fixed/static/css/main.d5c55a46.css.map",
+    "main.67253f10.js.map": "/lappa-fixed/static/js/main.67253f10.js.map",
+    "787.5ee6e53e.chunk.js.map": "/lappa-fixed/static/js/787.5ee6e53e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5c55a46.css",
+    "static/js/main.67253f10.js"
+  ]
+}

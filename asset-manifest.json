@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lappa-fixed/static/css/main.d5c55a46.css",
-    "main.js": "/lappa-fixed/static/js/main.77fcbfcf.js",
+    "main.js": "/lappa-fixed/static/js/main.e85d140d.js",
     "static/js/787.5ee6e53e.chunk.js": "/lappa-fixed/static/js/787.5ee6e53e.chunk.js",
     "static/media/logo.svg": "/lappa-fixed/static/media/logo.7e9c3d1d40f83e17246b467f38506986.svg",
     "static/media/2.svg": "/lappa-fixed/static/media/2.0646d849fe44ee8ab5e530b10b885820.svg",
@@ -14,11 +14,11 @@
     "static/media/flecha.svg": "/lappa-fixed/static/media/flecha.d96ee7ece12068622795252f804578d6.svg",
     "static/media/arrow-down-outline.svg": "/lappa-fixed/static/media/arrow-down-outline.134ac26ce6a52bf2f9cb556df3bf5499.svg",
     "main.d5c55a46.css.map": "/lappa-fixed/static/css/main.d5c55a46.css.map",
-    "main.77fcbfcf.js.map": "/lappa-fixed/static/js/main.77fcbfcf.js.map",
+    "main.e85d140d.js.map": "/lappa-fixed/static/js/main.e85d140d.js.map",
     "787.5ee6e53e.chunk.js.map": "/lappa-fixed/static/js/787.5ee6e53e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5c55a46.css",
-    "static/js/main.77fcbfcf.js"
+    "static/js/main.e85d140d.js"
   ]
 }
